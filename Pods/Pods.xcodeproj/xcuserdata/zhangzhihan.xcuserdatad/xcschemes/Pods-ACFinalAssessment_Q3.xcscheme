@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9F35CAC31D5342F4000A10A3"
-               BuildableName = "ACFinalAssessment_Q3.app"
-               BlueprintName = "ACFinalAssessment_Q3"
-               ReferencedContainer = "container:ACFinalAssessment_Q3.xcodeproj">
+               BlueprintIdentifier = "DCFDD09C1C3C4B89C4C62557E23244BE"
+               BuildableName = "Pods_ACFinalAssessment_Q3.framework"
+               BlueprintName = "Pods-ACFinalAssessment_Q3"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9F35CAC31D5342F4000A10A3"
-            BuildableName = "ACFinalAssessment_Q3.app"
-            BlueprintName = "ACFinalAssessment_Q3"
-            ReferencedContainer = "container:ACFinalAssessment_Q3.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9F35CAC31D5342F4000A10A3"
-            BuildableName = "ACFinalAssessment_Q3.app"
-            BlueprintName = "ACFinalAssessment_Q3"
-            ReferencedContainer = "container:ACFinalAssessment_Q3.xcodeproj">
+            BlueprintIdentifier = "DCFDD09C1C3C4B89C4C62557E23244BE"
+            BuildableName = "Pods_ACFinalAssessment_Q3.framework"
+            BlueprintName = "Pods-ACFinalAssessment_Q3"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9F35CAC31D5342F4000A10A3"
-            BuildableName = "ACFinalAssessment_Q3.app"
-            BlueprintName = "ACFinalAssessment_Q3"
-            ReferencedContainer = "container:ACFinalAssessment_Q3.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
